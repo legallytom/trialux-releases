@@ -1,0 +1,222 @@
+TRIALUX END USER LICENSE AGREEMENT
+
+Version 1.0. Effective November 19, 2026.
+
+This End User License Agreement (the "Agreement") is between you and JADTEB, LLC, an Iowa limited liability company ("JADTEB", "we", "us"). "You" means the individual who accepts this Agreement and, if that individual accepts it for a law firm, company or other organization, that organization. If you accept for an organization, you confirm that you have authority to bind it.
+
+BY CLICKING "I AGREE", OR BY INSTALLING, ACTIVATING OR USING TRIALUX, YOU AGREE TO THIS AGREEMENT. IF YOU DO NOT AGREE, DO NOT INSTALL OR USE TRIALUX.
+
+
+1. DEFINITIONS
+
+"Software" means the Trialux program, its updates, and any documentation we provide with it.
+
+"License Key" means the key we issue to you to activate the Software.
+
+"Order" means the purchase record for your License Key, including the number of computers it covers ("Seats") and the period during which updates are included (the "Update Term").
+
+"Licensed Computer" means a computer on which the Software is activated with your License Key.
+
+"Trial" means use of the Software without a License Key, as described in Section 3.
+
+"Your Content" means the files, exhibits, case files, recordings, notes and other material you open, create or export with the Software.
+
+
+2. LICENSE
+
+2.1 Grant. Subject to this Agreement and to payment of the applicable fees, we grant you a limited, non-exclusive, non-transferable, non-sublicensable license to install and use the Software, in executable form only, on up to the number of Licensed Computers stated in your Order, for your own internal professional and business purposes.
+
+2.2 Permitted presentation. Displaying Your Content with the Software to courts, juries, arbitrators, mediators, witnesses, opposing parties, clients and other audiences, and sharing exports of Your Content, is permitted use and is not a distribution of the Software.
+
+2.3 Duration. Your license to each version of the Software released during your Update Term continues indefinitely unless this Agreement is terminated under Section 12.
+
+2.4 Copies. You may keep copies of the Software's installation file for backup and reinstallation on your Licensed Computers.
+
+
+3. TRIAL
+
+Without a License Key, the Software may be used for evaluation for fourteen (14) days from its first use on a computer. After the Trial, some features, such as presenting to a second display and exporting, are unavailable until a License Key is activated. The Trial is provided "AS IS" under Section 13, and you may not reset, extend or otherwise circumvent it.
+
+
+4. ACTIVATION AND SEATS
+
+4.1 Activation. The Software must be activated online with your License Key. After activation, it works offline, and it periodically confirms the license with our licensing service when the Licensed Computer is online. If the license cannot be confirmed for an extended period (currently 90 days), some features may be unavailable until it is confirmed.
+
+4.2 Seats. You may not activate the Software on more computers at one time than your Order allows. To move a Seat to another computer, deactivate the Software on the old computer first (Help > License > Deactivate This Computer), or contact us. Each virtual machine counts as a separate computer.
+
+4.3 Your License Key. Keep your License Key confidential and do not share it with anyone outside your organization. We may suspend a License Key that we reasonably believe is being used beyond your Order or in breach of this Agreement, and we will try to contact you first.
+
+
+5. UPDATES
+
+5.1 Included updates. Updates we release during your Update Term are included in your license. After the Update Term ends, you may keep using the versions released during it. Newer versions require renewal at our then-current renewal price.
+
+5.2 No obligation. We are not obligated to release any update, fix or new feature, or to support any particular operating system, display or other equipment.
+
+5.3 How updates are delivered. The Software can check for updates, which you can turn off in Edit > Preferences. Updates are installed only when you choose to install them. Each update is governed by this Agreement unless it comes with different terms, which you will be asked to accept.
+
+
+6. RESTRICTIONS
+
+Except as this Agreement expressly allows, or as applicable law permits despite this restriction, you may not:
+
+(a) copy, modify, translate or create derivative works of the Software;
+
+(b) reverse engineer, decompile or disassemble the Software, or attempt to discover its source code;
+
+(c) disable, bypass or interfere with the Software's licensing, activation, Trial or update-verification features, or use another person's License Key;
+
+(d) rent, lease, lend, sell, sublicense or distribute the Software, or let anyone outside your organization use it, including through a hosting, timesharing or service-bureau arrangement;
+
+(e) remove or alter any copyright, trademark or other notice in the Software;
+
+(f) use the Software to build a competing product; or
+
+(g) use the Software in violation of any law, court order or rule.
+
+
+7. YOUR CONTENT AND PRIVACY
+
+7.1 Your Content stays with you. The Software works on your computer. We do not receive, access or store Your Content, and you keep all rights to it.
+
+7.2 Your responsibilities. You are responsible for Your Content, including:
+- having the right to use it;
+- protecting confidential, privileged, sealed and personal information;
+- complying with protective orders and with your own professional obligations; and
+- keeping your own backups.
+
+7.3 Information we receive.
+- When you activate, confirm or deactivate a license, the Software sends our licensing service your License Key, a one-way hash of your computer's identifier (not the identifier itself), your computer's name, and the Software's version.
+- When it checks for updates, it contacts the service that hosts our updates.
+- As with any internet connection, these services also see your IP address.
+
+We use this information only to provide licensing, updates, support and fraud prevention, and we do not sell it. We use third-party service providers for licensing (currently Keygen), update hosting (currently GitHub) and payment processing, and they handle this information under their own terms and privacy policies.
+
+
+8. YOUR PROFESSIONAL RESPONSIBILITY
+
+The Software is a tool for preparing and presenting exhibits. It does not provide legal advice, and using it does not satisfy any court rule, order, deadline or professional duty for you. You are solely responsible for:
+
+(a) confirming that the Software works with your exhibits, computers, displays and courtroom equipment before relying on it in any proceeding;
+
+(b) reviewing every export before using, filing or producing it, including confirming that redactions completely cover and remove what they must, and that exhibit numbers, stamps and labels are correct;
+
+(c) complying with all rules and orders that apply to your use, including rules about redacting personal information, sealed or protected material, and showing exhibits that have not been admitted; and
+
+(d) supervising anyone who uses the Software for you.
+
+
+9. THIRD-PARTY COMPONENTS
+
+The Software includes open-source components, each licensed under its own terms. Those terms are listed in full in Help > Open-Source Licenses. They govern your use of those components, and nothing in this Agreement limits any right those terms give you.
+
+
+10. OWNERSHIP AND FEEDBACK
+
+10.1 Ownership. The Software is licensed, not sold. JADTEB and its licensors own all rights, title and interest in the Software, including all intellectual property rights. "Trialux" and the Trialux logo are trademarks of JADTEB. All rights not expressly granted in this Agreement are reserved.
+
+10.2 Feedback. If you send us suggestions or feedback, we may use them without restriction or obligation to you.
+
+
+11. FEES, TAXES AND REFUNDS
+
+Fees, the number of Seats and the Update Term are as stated in your Order. Payment may be processed by an authorized reseller or merchant of record on our behalf. Fees do not include taxes, which are your responsibility except for taxes on our income. Refunds, if any, are as stated in the refund policy shown at the time of purchase.
+
+
+12. TERM AND TERMINATION
+
+12.1 Term. This Agreement continues until terminated.
+
+12.2 Termination by you. You may terminate this Agreement at any time by deactivating and deleting all copies of the Software.
+
+12.3 Termination for breach. This Agreement and your license terminate automatically if you materially breach it and do not cure the breach within fifteen (15) days after we give you notice. No cure period applies to a breach of Section 6. On termination, we may deactivate your License Key.
+
+12.4 After termination. You must stop using the Software and delete all copies. Your Content remains yours and is not affected.
+
+12.5 Survival. Sections 6, 7, 8, 10, 12.4, 12.5 and 13 through 20 survive termination.
+
+
+13. DISCLAIMER OF WARRANTIES
+
+TO THE FULLEST EXTENT PERMITTED BY LAW:
+- THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITH ALL FAULTS AND WITHOUT WARRANTY OF ANY KIND.
+- JADTEB DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, IMPLIED OR STATUTORY, INCLUDING ANY WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, QUIET ENJOYMENT OR ACCURACY, AND ANY WARRANTY ARISING FROM COURSE OF DEALING OR USAGE OF TRADE.
+- JADTEB DOES NOT WARRANT THAT THE SOFTWARE WILL BE UNINTERRUPTED OR ERROR-FREE.
+- JADTEB DOES NOT WARRANT THAT THE SOFTWARE WILL WORK WITH YOUR FILES, HARDWARE, DISPLAYS OR COURTROOM EQUIPMENT.
+- JADTEB DOES NOT WARRANT THAT EXPORTS OR REDACTIONS WILL BE COMPLETE OR CORRECT.
+- JADTEB DOES NOT WARRANT THAT THE LICENSING SERVICE OR UPDATES WILL ALWAYS BE AVAILABLE.
+
+Some jurisdictions do not allow the exclusion of implied warranties, so some of these exclusions may not apply to you. In that case, any implied warranty is limited to thirty (30) days from your first use of the Software.
+
+
+14. LIMITATION OF LIABILITY
+
+14.1 Excluded damages. TO THE FULLEST EXTENT PERMITTED BY LAW, JADTEB AND ITS MEMBERS, MANAGERS, EMPLOYEES, AGENTS, LICENSORS AND SERVICE PROVIDERS WILL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY OR PUNITIVE DAMAGES. THIS INCLUDES:
+- LOST PROFITS, REVENUE, FEES OR CLIENTS;
+- LOST OR CORRUPTED DATA;
+- COURT SANCTIONS, MISTRIALS, ADVERSE RULINGS OR VERDICTS;
+- MALPRACTICE OR DISCIPLINARY CLAIMS; AND
+- ANY EXHIBIT OR INFORMATION SHOWN, WITHHELD, DISCLOSED OR EXPORTED INCORRECTLY.
+
+THIS EXCLUSION APPLIES HOWEVER THE DAMAGES ARISE AND UNDER ANY THEORY OF LIABILITY, EVEN IF JADTEB WAS ADVISED OF THEIR POSSIBILITY.
+
+14.2 Cap. TO THE FULLEST EXTENT PERMITTED BY LAW, JADTEB'S TOTAL LIABILITY FOR ALL CLAIMS RELATING TO THE SOFTWARE OR THIS AGREEMENT WILL NOT EXCEED THE GREATER OF (A) THE AMOUNT YOU PAID FOR THE SOFTWARE IN THE TWELVE (12) MONTHS BEFORE THE EVENT GIVING RISE TO THE CLAIM, OR (B) FIFTY U.S. DOLLARS (US$50).
+
+14.3 Basis of the bargain. These limits are an essential part of the bargain between you and JADTEB, and apply even if a limited remedy fails of its essential purpose.
+
+
+15. INDEMNITY
+
+You will defend, indemnify and hold harmless JADTEB and its members, managers, employees and agents from any third-party claim, and the resulting losses and reasonable attorneys' fees, arising from:
+- Your Content;
+- your use of the Software in breach of this Agreement or of any law, rule or court order; or
+- your use of the Software in any proceeding or for any client.
+
+
+16. EXPORT AND SANCTIONS
+
+You will comply with all applicable export control and sanctions laws. You confirm that you are not located in, and will not use or export the Software to, any country or person subject to U.S. embargo or sanctions.
+
+
+17. U.S. GOVERNMENT USERS
+
+The Software is "commercial computer software" and its documentation is "commercial computer software documentation" under FAR 12.212 and DFARS 227.7202. U.S. Government users receive only the rights in this Agreement.
+
+
+18. GOVERNING LAW AND VENUE
+
+18.1 Governing law. This Agreement is governed by the laws of the State of Iowa, without regard to its conflict-of-laws rules. The United Nations Convention on Contracts for the International Sale of Goods does not apply. Neither does any version of the Uniform Computer Information Transactions Act, however enacted.
+
+18.2 Venue. The Iowa District Court for Polk County, and the United States District Court for the Southern District of Iowa (Central Division), have exclusive jurisdiction over any dispute arising from this Agreement or the Software. You consent to their personal jurisdiction and venue, and you waive any objection that either court is an inconvenient forum.
+
+18.3 Injunctive relief. JADTEB may seek injunctive or other equitable relief in any court of competent jurisdiction to protect its intellectual property.
+
+
+19. CHANGES TO THIS AGREEMENT
+
+We may revise this Agreement for future versions of the Software. The version of this Agreement presented with a version of the Software governs that version. If we make a material change, the Software will ask you to accept the revised Agreement before you continue using an updated version.
+
+
+20. GENERAL
+
+20.1 Entire agreement. This Agreement and your Order are the entire agreement between you and JADTEB about the Software. They supersede any prior or contemporaneous understanding. Any terms in a purchase order or other document you provide do not apply.
+
+20.2 Severability and waiver. If any part of this Agreement is held unenforceable, it will be enforced to the maximum extent permitted, and the rest remains in effect. A failure to enforce any part is not a waiver.
+
+20.3 Assignment. You may not assign or transfer this Agreement or your license without our written consent, except to a successor to all or substantially all of your practice or business that agrees to this Agreement, with notice to us. We may assign this Agreement in connection with a merger, acquisition or sale of assets.
+
+20.4 Notices. We may give you notice by email to the address associated with your Order, or within the Software. You may give us notice at the contact details below.
+
+20.5 Force majeure. Neither party is liable for a delay or failure caused by events beyond its reasonable control.
+
+20.6 Electronic acceptance. Your electronic acceptance of this Agreement has the same effect as a signature.
+
+20.7 Headings. Headings are for convenience only.
+
+
+CONTACT
+
+JADTEB, LLC
+2316 230th St. Ste. 304
+Ames, IA 50014
+JADTEBLLC@gmail.com
