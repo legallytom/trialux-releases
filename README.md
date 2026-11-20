@@ -11,7 +11,7 @@ This repository holds **official Trialux releases and update information only**.
 ## Download
 
 <!-- release-info:start (updated by release.ps1) -->
-**Latest version: 2.2.0** (November 19, 2026). [Download Trialux.exe](https://github.com/legallytom/trialux-releases/releases/latest/download/Trialux.exe) or see the [Releases page](https://github.com/legallytom/trialux-releases/releases/latest).
+**Latest version: 2.3.0** (November 20, 2026). [Download Trialux.exe](https://github.com/legallytom/trialux-releases/releases/latest/download/Trialux.exe) or see the [Releases page](https://github.com/legallytom/trialux-releases/releases/latest).
 <!-- release-info:end -->
 
 Trialux is a single portable program: there is nothing to install. Put `Trialux.exe` in a folder you can change, such as Documents or a USB drive, and run it. To let Trialux update itself, don't put it in Program Files.
@@ -28,19 +28,23 @@ Trialux is a single portable program: there is nothing to install. Put `Trialux.
 
 - Windows 10 (version 2004 or later) or Windows 11, 64-bit
 - A second display, projector or TV for presenting (optional for preparing)
-- Internet access to activate a license, for an automatic license check about once a month, and for updates. Otherwise Trialux works offline, including in a courtroom with no connection
+- Internet access to activate a license, at least once every 21 days to confirm it (Trialux checks weekly by itself), and for updates. Otherwise Trialux works offline, including in a courtroom with no connection
 
 ## Trial and license
 
-Trialux runs as a full **14-day trial** from the first time it opens. After the trial, it still opens cases and shows exhibits on your own screen, but presenting to a second display and exporting need a license.
+Trialux runs as a full **7-day trial** from the first time it opens, and reminds you once a day how many days are left. When the trial ends, Trialux locks: it shows only the license window, where you can enter a license key, until a key is activated.
 
-To activate, choose **Help > License**, paste your license key, and choose **Activate**. The computer must be online for that step. Afterwards Trialux works offline, and it confirms the license by itself about once a month when it can reach the internet. It keeps working for up to 90 days without a connection.
+To activate, choose **Help > License**, paste your license key, and choose **Activate**. The computer must be online for that step. Afterwards Trialux works offline. It confirms the license by itself at least once a week when the computer is online, and if it can't do so for **21 days**, it locks until the computer is connected and the license is confirmed. Connect your laptop before a trial or hearing, not at the courthouse. If Trialux does lock when you need it (no connection, or a renewal that hasn't gone through), the license window offers **Emergency 72 Hours**: full use for 72 hours without the internet, once per license term on each computer.
+
+A license runs for **one year** and includes every update released during that time. To keep using Trialux after that, renew the license. Reminders start 30 days before it ends. Once it's renewed, choose **Help > License > Check Now**.
 
 Each license covers a set number of computers. To move Trialux to a new computer, choose **Help > License > Deactivate This Computer** on the old one first, which frees its seat.
 
-A license includes updates released during its term (shown in Help > License). After that, the version you have keeps working; renewing gets you newer versions.
+Activation and the weekly check send the license server your license key, a fingerprint of the computer (a one-way hash, not the Windows ID itself), the computer's name, and the Trialux version. No case files, exhibits or other content are ever sent.
 
-Activation sends the license server your license key, a fingerprint of the computer (a one-way hash, not the Windows ID itself), the computer's name, and the Trialux version. No case files, exhibits or other content are ever sent.
+Your exhibits are your own files, so they stay usable in other programs even while Trialux is locked.
+
+To buy or renew a license, or for any question: [JADTEBLLC@gmail.com](mailto:JADTEBLLC@gmail.com)
 
 ## Updates
 
@@ -68,7 +72,7 @@ The result should match the `sha256` value in that release's `manifest.json`.
 
 ## Support
 
-Questions and problems: JADTEBLLC@gmail.com
+Email **[JADTEBLLC@gmail.com](mailto:JADTEBLLC@gmail.com)** with questions, problems, purchases and renewals.
 
 When reporting a problem, include your Trialux version (Help > About) and, if possible, the log file at `%LOCALAPPDATA%\Trialux\log.txt`.
 
