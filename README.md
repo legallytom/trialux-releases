@@ -68,7 +68,7 @@ The result should match the `sha256` value in that release's `manifest.json`.
 
 ## Support
 
-Questions and problems: [SUPPORT CONTACT]
+Questions and problems: JADTEBLLC@gmail.com
 
 When reporting a problem, include your Trialux version (Help > About) and, if possible, the log file at `%LOCALAPPDATA%\Trialux\log.txt`.
 
