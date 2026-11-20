@@ -1,6 +1,6 @@
 TRIALUX END USER LICENSE AGREEMENT
 
-Version 1.0. Effective November 19, 2026.
+Version 1.1. Effective November 20, 2026.
 
 This End User License Agreement (the "Agreement") is between you and JADTEB, LLC, an Iowa limited liability company ("JADTEB", "we", "us"). "You" means the individual who accepts this Agreement and, if that individual accepts it for a law firm, company or other organization, that organization. If you accept for an organization, you confirm that you have authority to bind it.
 
@@ -13,7 +13,7 @@ BY CLICKING "I AGREE", OR BY INSTALLING, ACTIVATING OR USING TRIALUX, YOU AGREE 
 
 "License Key" means the key we issue to you to activate the Software.
 
-"Order" means the purchase record for your License Key, including the number of computers it covers ("Seats") and the period during which updates are included (the "Update Term").
+"Order" means the purchase record for your License Key, including the number of computers it covers ("Seats") and the period for which it is licensed (the "License Term", normally one (1) year, as extended by any renewal).
 
 "Licensed Computer" means a computer on which the Software is activated with your License Key.
 
@@ -28,19 +28,19 @@ BY CLICKING "I AGREE", OR BY INSTALLING, ACTIVATING OR USING TRIALUX, YOU AGREE 
 
 2.2 Permitted presentation. Displaying Your Content with the Software to courts, juries, arbitrators, mediators, witnesses, opposing parties, clients and other audiences, and sharing exports of Your Content, is permitted use and is not a distribution of the Software.
 
-2.3 Duration. Your license to each version of the Software released during your Update Term continues indefinitely unless this Agreement is terminated under Section 12.
+2.3 Duration and renewal. Your license lasts for the License Term, unless this Agreement is terminated earlier under Section 12. To keep using the Software after the License Term ends, you must renew it. If it is not renewed, the Software stops working when the License Term ends (except for emergency access under Section 4.1), and starts working again once it is renewed. Your Content is not affected: your exhibits and other original files stay where you keep them and remain usable in other programs.
 
 2.4 Copies. You may keep copies of the Software's installation file for backup and reinstallation on your Licensed Computers.
 
 
 3. TRIAL
 
-Without a License Key, the Software may be used for evaluation for fourteen (14) days from its first use on a computer. After the Trial, some features, such as presenting to a second display and exporting, are unavailable until a License Key is activated. The Trial is provided "AS IS" under Section 13, and you may not reset, extend or otherwise circumvent it.
+Without a License Key, the Software may be used for evaluation for seven (7) days from its first use on a computer, and it reminds you daily how many days remain. After the Trial, the Software cannot be used until a License Key is activated. The Trial is provided "AS IS" under Section 13, and you may not reset, extend or otherwise circumvent it, including by changing your computer's clock.
 
 
 4. ACTIVATION AND SEATS
 
-4.1 Activation. The Software must be activated online with your License Key. After activation, it works offline, and it periodically confirms the license with our licensing service when the Licensed Computer is online. If the license cannot be confirmed for an extended period (currently 90 days), some features may be unavailable until it is confirmed.
+4.1 Activation and confirmation. The Software must be activated online with your License Key. After activation, it works offline, and it confirms the license with our licensing service at least once a week when the Licensed Computer is online. If the license cannot be confirmed for twenty-one (21) days, the Software stops working until the Licensed Computer is connected to the internet and the license is confirmed. You are responsible for connecting each Licensed Computer often enough, especially before you rely on the Software in a proceeding. Once per License Term on each Licensed Computer, if the Software has stopped working because the license could not be confirmed or the License Term has ended, you may turn on emergency access, which lets the Software work for seventy-two (72) hours without confirmation or renewal. Emergency access is a courtesy for urgent situations and does not extend your License Term.
 
 4.2 Seats. You may not activate the Software on more computers at one time than your Order allows. To move a Seat to another computer, deactivate the Software on the old computer first (Help > License > Deactivate This Computer), or contact us. Each virtual machine counts as a separate computer.
 
@@ -49,7 +49,7 @@ Without a License Key, the Software may be used for evaluation for fourteen (14)
 
 5. UPDATES
 
-5.1 Included updates. Updates we release during your Update Term are included in your license. After the Update Term ends, you may keep using the versions released during it. Newer versions require renewal at our then-current renewal price.
+5.1 Included updates. Updates we release during your License Term are included in your license. After the License Term ends, no version of the Software can be used until the license is renewed at our then-current renewal price.
 
 5.2 No obligation. We are not obligated to release any update, fix or new feature, or to support any particular operating system, display or other equipment.
 
@@ -120,7 +120,7 @@ The Software includes open-source components, each licensed under its own terms.
 
 11. FEES, TAXES AND REFUNDS
 
-Fees, the number of Seats and the Update Term are as stated in your Order. Payment may be processed by an authorized reseller or merchant of record on our behalf. Fees do not include taxes, which are your responsibility except for taxes on our income. Refunds, if any, are as stated in the refund policy shown at the time of purchase.
+Fees, the number of Seats and the License Term are as stated in your Order. Payment may be processed by an authorized reseller or merchant of record on our behalf. Fees do not include taxes, which are your responsibility except for taxes on our income. Refunds, if any, are as stated in the refund policy shown at the time of purchase.
 
 
 12. TERM AND TERMINATION
