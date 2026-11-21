@@ -35,7 +35,7 @@ BY CLICKING "I AGREE", OR BY INSTALLING, ACTIVATING OR USING TRIALUX, YOU AGREE 
 
 3. TRIAL
 
-Without a License Key, the Software may be used for evaluation for seven (7) days from its first use on a computer, and it reminds you daily how many days remain. After the Trial, the Software cannot be used until a License Key is activated. The Trial is provided "AS IS" under Section 13, and you may not reset, extend or otherwise circumvent it, including by changing your computer's clock.
+Without a License Key, the Software may be used for evaluation for seven (7) days from its first use on a computer, and it shows how many days remain and reminds you during the final days. After the Trial, the Software cannot be used until a License Key is activated. The Trial is provided "AS IS" under Section 13, and you may not reset, extend or otherwise circumvent it, including by changing your computer's clock.
 
 
 4. ACTIVATION AND SEATS
