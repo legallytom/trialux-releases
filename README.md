@@ -11,7 +11,7 @@ This repository holds **official Trialux releases and update information only**.
 ## Download
 
 <!-- release-info:start (updated by release.ps1) -->
-**Latest version: 2.3.0** (November 20, 2026). [Download Trialux.exe](https://github.com/legallytom/trialux-releases/releases/latest/download/Trialux.exe) or see the [Releases page](https://github.com/legallytom/trialux-releases/releases/latest).
+**Latest version: 2.3.1** (November 20, 2026). [Download Trialux.exe](https://github.com/legallytom/trialux-releases/releases/latest/download/Trialux.exe) or see the [Releases page](https://github.com/legallytom/trialux-releases/releases/latest).
 <!-- release-info:end -->
 
 Trialux is a single portable program: there is nothing to install. Put `Trialux.exe` in a folder you can change, such as Documents or a USB drive, and run it. To let Trialux update itself, don't put it in Program Files.
@@ -32,9 +32,14 @@ Trialux is a single portable program: there is nothing to install. Put `Trialux.
 
 ## Trial and license
 
-Trialux runs as a full **7-day trial** from the first time it opens, and reminds you once a day how many days are left. When the trial ends, Trialux locks: it shows only the license window, where you can enter a license key, until a key is activated.
+Trialux runs as a full **7-day trial** from the first time it opens. In the last 3 days it reminds you once a day. When the trial ends, Trialux locks until a license key is entered.
 
-To activate, choose **Help > License**, paste your license key, and choose **Activate**. The computer must be online for that step. Afterwards Trialux works offline. It confirms the license by itself at least once a week when the computer is online, and if it can't do so for **21 days**, it locks until the computer is connected and the license is confirmed. Connect your laptop before a trial or hearing, not at the courthouse. If Trialux does lock when you need it (no connection, or a renewal that hasn't gone through), the license window offers **Emergency 72 Hours**: full use for 72 hours without the internet, once per license term on each computer.
+To activate, choose **Help > License**, paste your license key and choose **Activate**. The computer must be online for this step. After that:
+
+- **Trialux works offline,** including in a courtroom with no connection.
+- **It confirms the license about once a week** by itself whenever the computer is online.
+- **If it can't confirm for 21 days, it locks** until the computer is connected. Connect your laptop before a trial or hearing, not at the courthouse.
+- **If it locks when you need it** (no connection, or a renewal that hasn't gone through), the license window offers **Emergency 72 Hours**: full use without the internet, once per license term on each computer.
 
 A license runs for **one year** and includes every update released during that time. To keep using Trialux after that, renew the license. Reminders start 30 days before it ends. Once it's renewed, choose **Help > License > Check Now**.
 
