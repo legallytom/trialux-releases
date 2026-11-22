@@ -13,7 +13,7 @@ This repository holds **official Trialux releases and update information only**.
 ## Download
 
 <!-- release-info:start (updated by release.ps1) -->
-**Latest version: 2.3.1** (November 20, 2026). [Download Trialux.exe](https://github.com/legallytom/trialux-releases/releases/latest/download/Trialux.exe) or see the [Releases page](https://github.com/legallytom/trialux-releases/releases/latest).
+**Latest version: 2.3.2** (November 22, 2026). [Download Trialux.exe](https://github.com/legallytom/trialux-releases/releases/latest/download/Trialux.exe) or see the [Releases page](https://github.com/legallytom/trialux-releases/releases/latest).
 <!-- release-info:end -->
 
 Save Trialux to your **Desktop** and double-click it there to open Trialux. On the Desktop it is always one double-click away, and Trialux can update itself in place. No long installation needed. Avoid putting Trialux in Program Files, where Windows won't let it update itself.
