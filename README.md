@@ -6,6 +6,8 @@
 
 **Matter, trial & exhibit management for Windows.** Trialux shows your exhibits to the jury on a second screen while you work from your own: highlight, call out, redact, stamp and point, without the jury ever seeing your menus, notes or the next exhibit.
 
+Website: **[gettrialux.com](https://gettrialux.com)**
+
 This repository holds **official Trialux releases and update information only**. Trialux is commercial software; its source code is not published here.
 
 ## Download
@@ -49,7 +51,7 @@ Activation and the weekly check send the license server your license key, a fing
 
 Your exhibits are your own files, so they stay usable in other programs even while Trialux is locked.
 
-To buy or renew a license, or for any question: [JADTEBLLC@gmail.com](mailto:JADTEBLLC@gmail.com)
+To buy or renew a license, or for any question: [support@gettrialux.com](mailto:support@gettrialux.com)
 
 ## Updates
 
@@ -77,7 +79,7 @@ The result should match the `sha256` value in that release's `manifest.json`.
 
 ## Support
 
-Email **[JADTEBLLC@gmail.com](mailto:JADTEBLLC@gmail.com)** with questions, problems, purchases and renewals.
+Email **[support@gettrialux.com](mailto:support@gettrialux.com)** with questions, problems, purchases and renewals, or visit **[gettrialux.com](https://gettrialux.com)**.
 
 When reporting a problem, include your Trialux version (Help > About) and, if possible, the log file at `%LOCALAPPDATA%\Trialux\log.txt`.
 
