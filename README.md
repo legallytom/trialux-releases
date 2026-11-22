@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Trialux-logo-on-navy.png" alt="Trialux: matter, trial and exhibit management" width="640">
+  <img src="Trialux-logo-on-charcoal.png" alt="Trialux: matter, trial and exhibit management" width="640">
 </p>
 
 # Trialux
